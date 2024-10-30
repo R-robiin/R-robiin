@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 
 <!--
 **R-robiin/R-robiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am always open to innovations and i am a student for universtiy
+There's nothing else I can say about me.
+have a good day!
+
